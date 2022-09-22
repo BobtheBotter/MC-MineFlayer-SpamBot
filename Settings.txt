@@ -1,0 +1,6 @@
+words.txt
+BotNames.txt
+spam.txt
+1.8
+localhost
+25565
